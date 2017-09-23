@@ -1,0 +1,14 @@
+body{
+background: url(assets/images/background.png);
+font-family: 'Archivo Black', sans-serif;
+font-size: 48 px;
+}
+img{
+
+
+  width:  auto;
+  height: auto;
+
+  max-width: 75%;
+
+  padding-top: 10%
